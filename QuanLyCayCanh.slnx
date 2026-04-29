@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuanLyCayCanh.BUS/QuanLyCayCanh.BUS.csproj" />
+  <Project Path="QuanLyCayCanh.DAL/QuanLyCayCanh.DAL.csproj" />
+  <Project Path="QuanLyCayCanh.DTO/QuanLyCayCanh.DTO.csproj" />
+  <Project Path="QuanLyCayCanh.GUI/QuanLyCayCanh.GUI.csproj" />
+</Solution>
